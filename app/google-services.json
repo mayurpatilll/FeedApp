@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511665254580",
+    "firebase_url": "https://feedapp-61546-default-rtdb.firebaseio.com",
+    "project_id": "feedapp-61546",
+    "storage_bucket": "feedapp-61546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511665254580:android:74026b286638fe7d7de7e1",
+        "android_client_info": {
+          "package_name": "com.example.feedapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511665254580-ocngbq7vq5qlgjg60b2132d6ms31c0v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8VziZtHNxTREdhraeZyhTEBPovd-wGS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511665254580-ocngbq7vq5qlgjg60b2132d6ms31c0v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
